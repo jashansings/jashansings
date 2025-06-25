@@ -20,18 +20,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashansings&show_icons=true&theme=dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashansings&theme=dark&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashansings&layout=compact&theme=dark&hide_border=true" width="45%" />
-</p>
-
----
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
@@ -65,6 +54,18 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
   </tr>
 </table>
+</p>
+
+---
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jashansings&show_icons=true&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashansings&theme=dark&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashansings&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
 
 ---
