@@ -1,29 +1,30 @@
-<h1 align="center">Hi, I'm Jashan 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#38BDF8">Jashan</span> 👋</h1>
 
 <p align="center">
-  <strong>B.Tech CSE student at <a href="https://www.iitb.ac.in/" target="_blank">IIT Bombay</a></strong><br>
-  Passionate about building full-stack apps, open-source, and graph-based systems.
+  🎓 CSE Student @ IIT Bombay <br>
+  💡 Passionate about building scalable systems, playing with algorithms, and creating music. <br>
+  🔭 Currently working on a Friend Suggestion System using Graph Algorithms <br>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jashansings" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/jashansings" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:jashaniitb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/jashansings" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<<h3>🛠️ Tools & Technologies</h3>
+<h3>🛠️ Tools & Technologies</h3>
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" width="40"/><br>C++</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
@@ -38,55 +39,44 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="40"/><br>MongoDB</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/><br>LaTeX</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br>Flutter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/><br>Photoshop</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="40"/><br>Photoshop</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>Figma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
   </tr>
 </table>
 
-
 ---
 
-### 🚀 Featured Project
-
-- 🔗 **Friend Suggestion System** – built during **Seasons of Code 2025** at IIT Bombay
-  - FastAPI backend, React frontend, MySQL database, and Graph Algorithms for friend recommendations
-  - [View Repository »](https://github.com/jashansings/friend-suggestion-system)
-
----
-
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashansings&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashansings&theme=github-dark&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jashansings&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashansings&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashansings&layout=compact&theme=github_dark&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashansings&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📍 Currently Exploring
-- Graph-based systems
-- Real-time web apps with FastAPI + React
-- NLP + AI integrations in full-stack projects
+### 📌 Pinned Projects (You Can Edit These Later)
+
+- 🔗 [Friend Suggestion System](https://github.com/jashansings/friend-suggestion-system): Graph + Frontend + Backend based recommendation system.
+- 🔗 [Your Portfolio](https://github.com/jashansings/your-portfolio): Personal website using React/Vite.
 
 ---
 
-### 🙌 Connect With Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jashansings)
-- 📬 Email: jashaniitb@gmail.com
+#### 🙌 Let’s Connect!
+> I'm always open to collaborations, learning opportunities, or tech chat. Ping me!
 
 ---
 
-> ⚡ *"Striving to turn real-life problems into technical solutions with creativity, logic, and clean code."*
+Let me know if you want an animated hero banner, music/Spotify embed, or achievements badges next!
