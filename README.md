@@ -7,12 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/jashanpreet-singh-366698282" target="_blank">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/jashanpreet-singh-366698282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jashaniitb@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jashansings.github.io/jashan-portfolio" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
