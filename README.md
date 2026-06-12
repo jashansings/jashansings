@@ -3,7 +3,7 @@
 <p align="center">
   🎓 CSE Student @ IIT Bombay <br>
   💡 Passionate about algorithms, system design, and full-stack development <br>
-  🔭 Currently working on friend recommendation engines using Graph Algorithms <br>
+  🔭 Building scalable backend applications and machine learning pipelines <br>
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@
 </p>
 
 ---
-
-
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
@@ -57,25 +55,13 @@
 </p>
 
 ---
-<h3 align="center">📊 GitHub Stats</h3>
+
+<h3 align="center">📌 Featured Projects</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashansings&show_icons=true&theme=dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashansings&theme=dark&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashansings&layout=compact&theme=dark&hide_border=true" width="45%" />
-</p>
-
----
-
-<h3 align="center">📌 Pinned Projects</h3>
-
-<p align="center">
-  🔗 <a href="https://github.com/jashansings/friend-suggestion-system">Friend Suggestion System</a>  
-  <br>
-  🔗 <a href="https://github.com/jashansings/client-management-system">Client Management System</a>
+  🔗 <a href="https://github.com/jashansings/friend-suggestion-system">Friend Suggestion System (C++, Graph Algorithms)</a> <br>
+  🔗 <a href="https://github.com/jashansings/ChirpIT">ChirpIT (MERN Stack, JWT Auth)</a> <br>
+  🔗 <a href="https://github.com/jashansings/Malware-Image-Classification">Malware Image Classification (Python, ML)</a>
 </p>
 
 ---
